@@ -11,6 +11,7 @@ namespace helloworldProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world ");
+            Console.WriteLine("Welcome to DevOps class");
             Console.ReadLine();
         }
     }
