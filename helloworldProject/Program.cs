@@ -14,6 +14,7 @@ namespace helloworldProject
             Console.WriteLine("Welcome to DevOps class");
             Console.WriteLine("Hello Darshan");
             Console.WriteLine("Demo Git Hub");
+            Console.WriteLine("To demo pull");
             Console.ReadLine();
         }
     }
